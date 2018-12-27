@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "lib": ["es2017", "dom"],
+      "module": "ES2015",
+      "sourceMap": true,
+      "target": "es2017",
+      "sourceRoot": "./src",
+      "outDir": "./dist"
+    },
+  
+  }
